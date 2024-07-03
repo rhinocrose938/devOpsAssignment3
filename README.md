@@ -1,1 +1,1 @@
-#devOpsAssignment3
+#devOpsAssignment3=trigger poll scm
